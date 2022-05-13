@@ -3,4 +3,5 @@ virtual
 *.pyc
 start.sh
 venv
+.vscode/
 
